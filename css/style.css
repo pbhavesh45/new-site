@@ -8488,3 +8488,6 @@ img.emoji {
 .mb-15 {
   margin-bottom: 15px;
 }
+.redtext {
+  color: red;
+}
